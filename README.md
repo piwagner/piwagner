@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piwagner
 - 👀 I’m interested in modelling and simulation of traffic
-- 🌱 I’m currently learning github, statistics,...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning coding R, statistics, traffic safety.
 - 📫 How to reach me pi.wagner@outlook.de
 
 <!---
